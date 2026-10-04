@@ -1,0 +1,113 @@
+{
+  "extensionName": {
+    "message": "[B.M] YouTube 工具箱"
+  },
+  "extensionDescription": {
+    "message": "适用于 YouTube（www.youtube.com）的浏览器扩展工具箱"
+  },
+  "popupSubtitle": {
+    "message": "适用于 YouTube（www.youtube.com）的浏览器扩展工具箱"
+  },
+  "openYouTube": {
+    "message": "打开 YouTube"
+  },
+  "playlistTools": {
+    "message": "播放列表工具"
+  },
+  "sortAuthor": {
+    "message": "按作者排序"
+  },
+  "sortDate": {
+    "message": "按上传日期排序"
+  },
+  "copyPlaylist": {
+    "message": "复制该列表"
+  },
+  "exportCache": {
+    "message": "导出扫描缓存"
+  },
+  "authorDescription": {
+    "message": "按频道首次出现顺序分组，各组按上传日期从旧到新排列；并移除较晚出现的重复视频。"
+  },
+  "dateDescription": {
+    "message": "全部视频按上传日期从旧到新排列，同日视频保持相对顺序；并移除较晚出现的重复视频。"
+  },
+  "copyDescription": {
+    "message": "创建当前播放列表的私人副本。"
+  },
+  "cacheDescription": {
+    "message": "网页显示处理进度。各列表分别保存缓存，增量扫描新增视频。"
+  },
+  "openPlaylistPrompt": {
+    "message": "请打开 YouTube 播放列表页面。"
+  },
+  "panelOpened": {
+    "message": "处理面板已打开，进度显示在网页上。"
+  },
+  "exportOpened": {
+    "message": "另存窗口已打开。"
+  },
+  "stopAction": {
+    "message": "停止"
+  },
+  "startAction": {
+    "message": "开始／继续"
+  },
+  "openCopy": {
+    "message": "打开复制的列表"
+  },
+  "copySuffix": {
+    "message": " — 副本"
+  },
+  "playlistName": {
+    "message": "播放列表"
+  },
+  "copySource": {
+    "message": "来源："
+  },
+  "preparing": {
+    "message": "准备中 0/0"
+  },
+  "closePanel": {
+    "message": "关闭"
+  },
+  "closingPanel": {
+    "message": "正在停止，完成当前请求后关闭。"
+  },
+  "panelFinished": {
+    "message": "可关闭此窗口；再次操作时从工具箱打开。"
+  },
+  "platformSupport": {
+    "message": "支持复制列表、按作者／上传日期排序，以及频道视频导入；需可确认的编辑权限。"
+  },
+  "channelTools": {
+    "message": "频道工具"
+  },
+  "importChannel": {
+    "message": "频道视频导入列表"
+  },
+  "importChannelDescription": {
+    "message": "读取当前频道的视频，按上传日期从旧到新加入你指定的播放列表；已存在的视频会跳过。"
+  },
+  "openChannelPrompt": {
+    "message": "请打开 YouTube 频道、频道视频分页或视频页面。"
+  },
+  "destPlaylistLabel": {
+    "message": "目标播放列表"
+  },
+  "destPlaylistPlaceholder": {
+    "message": "粘贴 PL… 或播放列表网址"
+  },
+  "useDestPlaylist": {
+    "message": "使用此列表开始"
+  },
+  "createDestPlaylist": {
+    "message": "新建私人列表并开始"
+  },
+  "createDestTitleLabel": {
+    "message": "新建列表名称（选用）"
+  },
+  "reuseLastDest": {
+    "message": "填入上次目标"
+  }
+}

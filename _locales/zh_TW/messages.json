@@ -1,0 +1,113 @@
+{
+  "extensionName": {
+    "message": "[B.M] YouTube 工具箱"
+  },
+  "extensionDescription": {
+    "message": "適用於 YouTube（www.youtube.com）的瀏覽器擴充功能工具箱"
+  },
+  "popupSubtitle": {
+    "message": "適用於 YouTube（www.youtube.com）的瀏覽器擴充功能工具箱"
+  },
+  "openYouTube": {
+    "message": "開啟 YouTube"
+  },
+  "playlistTools": {
+    "message": "播放清單工具"
+  },
+  "sortAuthor": {
+    "message": "依作者排序"
+  },
+  "sortDate": {
+    "message": "依上傳日期排序"
+  },
+  "copyPlaylist": {
+    "message": "複製該清單"
+  },
+  "exportCache": {
+    "message": "匯出掃描快取"
+  },
+  "authorDescription": {
+    "message": "依頻道首次出現順序分組，各組依上傳日期由舊到新排列；並移除較晚出現的重複影片。"
+  },
+  "dateDescription": {
+    "message": "全曲依上傳日期由舊到新排列，同日影片維持相對順序；並移除較晚出現的重複影片。"
+  },
+  "copyDescription": {
+    "message": "建立目前播放清單的私人副本。"
+  },
+  "cacheDescription": {
+    "message": "網頁顯示處理進度。各清單分別儲存快取，增量掃描新增影片。"
+  },
+  "openPlaylistPrompt": {
+    "message": "請開啟 YouTube 播放清單頁面。"
+  },
+  "panelOpened": {
+    "message": "處理面板已開啟，進度顯示於網頁。"
+  },
+  "exportOpened": {
+    "message": "另存視窗已開啟。"
+  },
+  "stopAction": {
+    "message": "停止"
+  },
+  "startAction": {
+    "message": "開始／接續"
+  },
+  "openCopy": {
+    "message": "開啟複製的清單"
+  },
+  "copySuffix": {
+    "message": " — 副本"
+  },
+  "playlistName": {
+    "message": "播放清單"
+  },
+  "copySource": {
+    "message": "來源："
+  },
+  "preparing": {
+    "message": "準備中 0/0"
+  },
+  "closePanel": {
+    "message": "關閉"
+  },
+  "closingPanel": {
+    "message": "正在停止，完成目前請求後關閉。"
+  },
+  "panelFinished": {
+    "message": "可關閉此視窗；再次操作時從工具箱開啟。"
+  },
+  "platformSupport": {
+    "message": "支援複製清單、依作者／上傳日期排序，以及頻道影片匯入；需可確認的編輯權限。"
+  },
+  "channelTools": {
+    "message": "頻道工具"
+  },
+  "importChannel": {
+    "message": "頻道影片匯入清單"
+  },
+  "importChannelDescription": {
+    "message": "讀取目前頻道的影片，依上傳日期由舊到新加入你指定的播放清單；已存在的影片會略過。"
+  },
+  "openChannelPrompt": {
+    "message": "請開啟 YouTube 頻道、頻道影片分頁或影片頁面。"
+  },
+  "destPlaylistLabel": {
+    "message": "目標播放清單"
+  },
+  "destPlaylistPlaceholder": {
+    "message": "貼上 PL… 或播放清單網址"
+  },
+  "useDestPlaylist": {
+    "message": "使用此清單開始"
+  },
+  "createDestPlaylist": {
+    "message": "新建私人清單並開始"
+  },
+  "createDestTitleLabel": {
+    "message": "新建清單名稱（選用）"
+  },
+  "reuseLastDest": {
+    "message": "填入上次目標"
+  }
+}

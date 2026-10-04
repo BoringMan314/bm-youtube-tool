@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YouTube 工具箱</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header class="header"><img class="header-icon" src="icons/icon.png" width="40" height="40" alt=""><div>
+    <h1 class="header-title" data-i18n="extensionName"></h1>
+    <p class="header-sub" data-i18n="popupSubtitle"></p>
+  </div></header>
+  <section class="sort-section" style="margin-top:0;padding-top:0;border-top:0">
+    <h2 class="group-title" data-i18n="playlistTools"></h2>
+    <p class="card-desc" data-i18n="authorDescription"></p>
+    <p class="card-desc" data-i18n="dateDescription"></p>
+    <button id="sortPlaylist" class="footer-link" type="button" data-i18n="sortAuthor"></button>
+    <button id="sortPlaylistByDate" class="footer-link" type="button" data-i18n="sortDate"></button>
+    <button id="copyPlaylist" class="footer-link" type="button" data-i18n="copyPlaylist"></button>
+    <button id="exportSortCache" class="footer-link" type="button" data-i18n="exportCache"></button>
+    <p class="card-desc" data-i18n="cacheDescription"></p>
+    <p class="card-desc" data-i18n="copyDescription"></p>
+    <p class="card-desc" data-i18n="platformSupport"></p>
+  </section>
+  <section class="sort-section">
+    <h2 class="group-title" data-i18n="channelTools"></h2>
+    <p class="card-desc" data-i18n="importChannelDescription"></p>
+    <button id="importChannelVideos" class="footer-link" type="button" data-i18n="importChannel"></button>
+  </section>
+  <footer class="footer"><a class="footer-link" href="https://www.youtube.com/" target="_blank" rel="noopener" data-i18n="openYouTube"></a><p id="status" role="status"></p></footer>
+  <script src="popup.js"></script>
+  <script src="src/feature-playlist-sort.js"></script>
+  <script src="src/feature-channel-import.js"></script>
+</body>
+</html>

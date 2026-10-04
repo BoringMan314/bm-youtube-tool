@@ -1,0 +1,113 @@
+{
+  "extensionName": {
+    "message": "[B.M] YouTube Toolbox"
+  },
+  "extensionDescription": {
+    "message": "A browser extension toolbox for YouTube (www.youtube.com)."
+  },
+  "popupSubtitle": {
+    "message": "A browser extension toolbox for YouTube (www.youtube.com)."
+  },
+  "openYouTube": {
+    "message": "Open YouTube"
+  },
+  "playlistTools": {
+    "message": "Playlist tools"
+  },
+  "sortAuthor": {
+    "message": "Sort by creator"
+  },
+  "sortDate": {
+    "message": "Sort by upload date"
+  },
+  "copyPlaylist": {
+    "message": "Copy playlist"
+  },
+  "exportCache": {
+    "message": "Export scan cache"
+  },
+  "authorDescription": {
+    "message": "Group by each channel’s first appearance, then order each group by upload date, oldest first. Later duplicate videos are removed."
+  },
+  "dateDescription": {
+    "message": "Order all videos by upload date, oldest first. Videos with the same date retain their relative order. Later duplicate videos are removed."
+  },
+  "copyDescription": {
+    "message": "Create a private copy of the current playlist."
+  },
+  "cacheDescription": {
+    "message": "Progress appears on the page. Each playlist has its own cache; incremental scans retrieve new videos."
+  },
+  "openPlaylistPrompt": {
+    "message": "Open a YouTube playlist page."
+  },
+  "panelOpened": {
+    "message": "The action panel is open. Progress appears on the page."
+  },
+  "exportOpened": {
+    "message": "The Save As dialog is open."
+  },
+  "stopAction": {
+    "message": "Stop"
+  },
+  "startAction": {
+    "message": "Start / Resume"
+  },
+  "openCopy": {
+    "message": "Open copied playlist"
+  },
+  "copySuffix": {
+    "message": " — Copy"
+  },
+  "playlistName": {
+    "message": "Playlist"
+  },
+  "copySource": {
+    "message": "Source: "
+  },
+  "preparing": {
+    "message": "Preparing 0/0"
+  },
+  "closePanel": {
+    "message": "Close"
+  },
+  "closingPanel": {
+    "message": "Stopping. The panel will close after the current request."
+  },
+  "panelFinished": {
+    "message": "You can close this panel. Open it from the toolbox for another action."
+  },
+  "platformSupport": {
+    "message": "Supports playlist copying, sorting by creator or upload date, and importing a channel’s videos. Editable playlists only."
+  },
+  "channelTools": {
+    "message": "Channel tools"
+  },
+  "importChannel": {
+    "message": "Import channel videos"
+  },
+  "importChannelDescription": {
+    "message": "Read videos from the current channel and add them to your playlist oldest-first. Videos already in the playlist are skipped."
+  },
+  "openChannelPrompt": {
+    "message": "Open a YouTube channel, channel videos tab, or watch page."
+  },
+  "destPlaylistLabel": {
+    "message": "Destination playlist"
+  },
+  "destPlaylistPlaceholder": {
+    "message": "Paste a PL… ID or playlist URL"
+  },
+  "useDestPlaylist": {
+    "message": "Use this playlist"
+  },
+  "createDestPlaylist": {
+    "message": "Create private playlist and start"
+  },
+  "createDestTitleLabel": {
+    "message": "New playlist title (optional)"
+  },
+  "reuseLastDest": {
+    "message": "Use last destination"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "extensionName": {
+    "message": "[B.M] YouTube ツールボックス"
+  },
+  "extensionDescription": {
+    "message": "YouTube（www.youtube.com）向けのブラウザー拡張機能ツールボックス"
+  },
+  "popupSubtitle": {
+    "message": "YouTube（www.youtube.com）向けのブラウザー拡張機能ツールボックス"
+  },
+  "openYouTube": {
+    "message": "YouTube を開く"
+  },
+  "playlistTools": {
+    "message": "プレイリストツール"
+  },
+  "sortAuthor": {
+    "message": "投稿者順に並べ替え"
+  },
+  "sortDate": {
+    "message": "アップロード日順に並べ替え"
+  },
+  "copyPlaylist": {
+    "message": "プレイリストをコピー"
+  },
+  "exportCache": {
+    "message": "スキャンキャッシュをエクスポート"
+  },
+  "authorDescription": {
+    "message": "チャンネルの初出順にグループ化し、各グループをアップロード日の古い順に並べ替えます。後から出た重複動画は削除します。"
+  },
+  "dateDescription": {
+    "message": "全曲をアップロード日の古い順に並べ替えます。同日の動画は相対的な順序を維持し、後から出た重複動画は削除します。"
+  },
+  "copyDescription": {
+    "message": "現在のプレイリストの非公開コピーを作成します。"
+  },
+  "cacheDescription": {
+    "message": "進捗はページに表示されます。キャッシュはプレイリストごとに保存され、追加動画を差分スキャンします。"
+  },
+  "openPlaylistPrompt": {
+    "message": "YouTube のプレイリストページを開いてください。"
+  },
+  "panelOpened": {
+    "message": "操作パネルを開きました。進捗はページに表示されます。"
+  },
+  "exportOpened": {
+    "message": "保存ダイアログを開きました。"
+  },
+  "stopAction": {
+    "message": "停止"
+  },
+  "startAction": {
+    "message": "開始／再開"
+  },
+  "openCopy": {
+    "message": "コピーしたプレイリストを開く"
+  },
+  "copySuffix": {
+    "message": " — コピー"
+  },
+  "playlistName": {
+    "message": "プレイリスト"
+  },
+  "copySource": {
+    "message": "コピー元："
+  },
+  "preparing": {
+    "message": "準備中 0/0"
+  },
+  "closePanel": {
+    "message": "閉じる"
+  },
+  "closingPanel": {
+    "message": "停止中です。現在のリクエストが終了すると閉じます。"
+  },
+  "panelFinished": {
+    "message": "このパネルを閉じられます。再度操作する場合はツールボックスから開いてください。"
+  },
+  "platformSupport": {
+    "message": "プレイリストのコピー、投稿者／アップロード日での並べ替え、チャンネル動画の取り込みに対応しています。編集可能なリストが必要です。"
+  },
+  "channelTools": {
+    "message": "チャンネルツール"
+  },
+  "importChannel": {
+    "message": "チャンネル動画を取り込む"
+  },
+  "importChannelDescription": {
+    "message": "現在のチャンネルの動画を読み取り、アップロード日の古い順に指定プレイリストへ追加します。既存の動画はスキップします。"
+  },
+  "openChannelPrompt": {
+    "message": "YouTube のチャンネル、動画タブ、または視聴ページを開いてください。"
+  },
+  "destPlaylistLabel": {
+    "message": "追加先プレイリスト"
+  },
+  "destPlaylistPlaceholder": {
+    "message": "PL… またはプレイリスト URL を貼り付け"
+  },
+  "useDestPlaylist": {
+    "message": "このリストで開始"
+  },
+  "createDestPlaylist": {
+    "message": "非公開リストを作成して開始"
+  },
+  "createDestTitleLabel": {
+    "message": "新規リスト名（任意）"
+  },
+  "reuseLastDest": {
+    "message": "前回の目標を入れる"
+  }
+}
